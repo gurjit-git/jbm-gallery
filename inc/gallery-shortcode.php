@@ -59,11 +59,6 @@ class jbm_gallery_shortcode_class{
 
 		return $gallery_html;
 	}
-	//location shortcode
-	/*public function register_jbm_gallery_shortcodes(){
-		add_shortcode('jbm_gallery_shortcode', array($this, 'jbm_gallery_shortcode'));
-	}*/
-	
 }
 jbm_gallery_shortcode_class::getInstance();
 ?>
