@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: JBM Gallery
-Plugin URI: http://wordpress.org/
+Plugin URI: https://github.com/gurjit-git/jbm-gallery
 Description: This is a responsive Gallery plugin for images and videos.
 Author: Gurjit Singh
 Version: 0.1.2
-Author URI: http://gurjitsingh.com
+Author URI: https://github.com/gurjit-git/
 */
 defined( 'ABSPATH' ) or die( 'Direct access not allowed!' );
 define( 'JBM_GALLERY_PLUGIN_PATH', plugin_dir_path( __FILE__ ) );
